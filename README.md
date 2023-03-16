@@ -1,4 +1,4 @@
-# Sales-Analysis
+# Sales-Analysis - Power BI Report  
 https://app.powerbi.com/view?r=eyJrIjoiNWIzNmI4YzUtZmIwYy00YjFlLTk3M2EtNmQ4MzJlMTc3YzQ4IiwidCI6ImM3NzNkYjQ4LTQxMWMtNGZjYS04ODA2LTU0M2ZiYmFhNWY5MCJ9
 The given Data is of sales with the time period of 7 and half year 
 The report is made in such a manner that the user can undersand the state of his business as the report provides all kinds of use full informartion.
